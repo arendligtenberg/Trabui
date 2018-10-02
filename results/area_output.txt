@@ -1,0 +1,2 @@
+time,landuse count (each.cropType = rice),landuse count (each.cropType = corn),landuse count (each.cropType = acacia),landuse count (each.cropType = fallow),landuse count (each.cropType = 5),landuse count (each.cropType = 6),landuse count (each.cropType = 7),landuse count (each.cropType = 8)
+11.0,1397,831,1409,3975,9601,2041,2016,4415

@@ -1,0 +1,2 @@
+time,rice_carbon_storage,corn_carbon_storage,acacia_carbon_storage,fallow_carbon_storage,regrowth_carbon_storage,medium_carbon_storage,poor_carbon_storage,rich_carbon_storage,total_carbon_storage
+11.0,41910000.0,24930000.0,184735555.55555558,6520833.333333333,1258797777.777778,1152031111.1111112,60480000.0,4895744444.444445,7625149722.222222
